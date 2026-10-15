@@ -1,0 +1,3 @@
+Asset;Role;CPU;RAM;Storage;OS
+Main Laptop;Administration Workstation;13th Gen Intel Core i7-13620H;32 GB;953.9 GB;Windows 10 Pro (2009)
+Old Laptop;Hypervisor Host ;PENDING_VERIFICATION;16 GB;PENDING_VERIFICATION;Linux Mint 
